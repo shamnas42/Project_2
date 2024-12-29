@@ -2,6 +2,8 @@
 #include <string>
 #include <typeinfo>
 
+// Test for changes
+
 int answer(int first, int second, std::string operation)
 {
 	if (operation == "+")
